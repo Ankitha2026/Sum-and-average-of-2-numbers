@@ -1,0 +1,1 @@
+# Sum-and-average-of-2-numbers
