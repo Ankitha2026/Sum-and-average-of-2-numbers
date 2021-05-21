@@ -1,1 +1,1 @@
-# Sum-and-average-of-2-numbers
+# Sum-and-average-of-3-numbers
